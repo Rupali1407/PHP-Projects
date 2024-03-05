@@ -4,3 +4,4 @@
 ![About](https://github.com/Rupali1407/PHP-Projects/assets/123893797/6e869216-6b1c-4037-9250-133b96677d87)
 ![Become Cand](https://github.com/Rupali1407/PHP-Projects/assets/123893797/4727bf96-7b16-40d9-9428-f95b54ba93a3)
 ![Cand Enroll](https://github.com/Rupali1407/PHP-Projects/assets/123893797/bbe38d1f-a77c-4e34-b24f-928d611b2a24)
+![Candidates](https://github.com/Rupali1407/PHP-Projects/assets/123893797/30334a28-b11e-4c74-b21c-1d224ebe6153)
