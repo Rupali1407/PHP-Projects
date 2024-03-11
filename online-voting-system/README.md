@@ -6,3 +6,4 @@
 ![Cand Enroll](https://github.com/Rupali1407/PHP-Projects/assets/123893797/bbe38d1f-a77c-4e34-b24f-928d611b2a24)
 ![Result](https://github.com/Rupali1407/PHP-Projects/assets/123893797/daebdf9e-19c0-4307-baf9-1b5702b4e6e1)
 ![Contact Form](https://github.com/Rupali1407/PHP-Projects/assets/123893797/b526e3fb-d9a7-4adb-af13-444ea3a09b4f)
+![Suggestion form](https://github.com/Rupali1407/PHP-Projects/assets/123893797/6d00f1ce-7582-4b38-af8e-05b103e6902a)
